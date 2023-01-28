@@ -8,6 +8,6 @@
 - 🤔 Philosophical Thinking
 
 ## 🛠 Tech Stack
-- 🌐  HTML5 | CSS3 | JavaScript | C#| TypeScript | Angular | Node.js | Express | EJS | API | Authentication| OAuth
-- 🛢   MySQL | PostgreSQL | MongoDB | Mongoose
+- 🌐  HTML5 | CSS3 | JavaScript | C# | TypeScript | Angular | Node.js | Express | EJS | API | Authentication| OAuth
+- 🛢   MSSQL | MongoDB | Mongoose
 - 🐿️  JAVA | Data Structures |  Algorithm
