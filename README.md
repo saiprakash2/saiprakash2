@@ -7,6 +7,6 @@
 - 🧩 Puzzle solving
 
 ## 🛠 Tech Stack
-- 🌐  JavaScript | Python | C# | React| Angular | Node.js | Express | Solidity
+- 🌐  JavaScript | Python | C# | React| Redux| Node.js | Express | Solidity
 - 🛢   MSSQL | MongoDB | Mongoose
 - 🐿️  JAVA | Data Structures |  Algorithm
