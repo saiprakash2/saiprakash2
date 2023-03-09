@@ -2,7 +2,7 @@
 
 # **Hi from Sai** 😎👋
 ## 🧑‍💻About Me
-- 💻Computers
+- 💻Coding
 - ♥️ Poker
 - 🧩 Puzzle solving
 
